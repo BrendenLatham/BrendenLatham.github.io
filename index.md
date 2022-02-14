@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Brenden Latham
+### Welcome to My Portfolio
+Everything here can be reached from my [GitHub](https://github.com/BrendenLatham), but feel free to use this to brows my work.
 
-You can use the [editor on GitHub](https://github.com/BrendenLatham/BrendenLatham.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### About
+I am a Junior computer science student attending East Central University in Ada Ok. Computer science is my prefered field, but my real passions lie on the mathematicaly heavier side of the subject. My two favorite topics are Probability and Graph Theory. Most of my work thus far has been done in data processing, interpretation, and visualization.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Research
+- Oklahoma IDeA Network of Biomedical Research Excellence [sentiment of twitter users toward vaccines](https://rpubs.com/BrendenLatham/803073) (in R)
 
-### Markdown
+### Work By Language
+- Python
+  - [A Casino's Take on Discrete Math](https://github.com/BrendenLatham/DiscreteMath/blob/main/projectpart5.ipynb)
+  - [Intro to Twitter Scrapping](https://github.com/BrendenLatham/Data_Viz/blob/main/TwitterScrape.ipynb)
+  - [Intro to Web Scrapping](https://github.com/BrendenLatham/Data_Viz/blob/main/WebScraping.ipynb)
+  - [Wrangling Practice](https://github.com/BrendenLatham/Data_Viz/blob/main/WranglingBanks.ipynb)
+- R
+  - [2020 Road to The Kentucky Derby Horse Stats](https://github.com/BrendenLatham/horse-stats/blob/main/myfirstmarkdown.Rmd)
+- SQL
+  - [Google BigQuery With Colab](https://github.com/BrendenLatham/Data_Viz/blob/main/BigQuery.ipynb)
+- C
+  - [Various Algorithms](https://github.com/BrendenLatham/C-practice)
+- HTML/CSS/PHP/JavaScript
+  - [Travel Spots By State Website Code](https://github.com/BrendenLatham/web-programming)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Some Fun Problems
+- [Monty Hall](https://github.com/BrendenLatham/simulations/blob/main/MontyHall.ipynb)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BrendenLatham/BrendenLatham.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### All Course Work
+  - Programming I and II
+  - Calc I and II
+  - Discrete Math
+  - Intro to Probability and Stats
+  - Data Structures and Algorithm Analysis
+  - Computer Architecture
+  - Network Science
+  - Internet Programming
+  - Data Processing and Visualization
+  - Database Design
