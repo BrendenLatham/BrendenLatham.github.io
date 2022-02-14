@@ -26,7 +26,7 @@ I am a Junior computer science student attending East Central University in Ada 
 ### Some Fun Problems
 - [Monty Hall](https://github.com/BrendenLatham/simulations/blob/main/MontyHall.ipynb)
 
-### All Course Work
+### Related Course Work
   - Programming I and II
   - Calc I and II
   - Discrete Math
