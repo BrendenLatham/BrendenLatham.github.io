@@ -28,12 +28,13 @@ I am a Junior computer science student attending East Central University in Ada 
 
 ### Related Course Work
   - Programming I and II
-  - Calc I and II
-  - Discrete Math
+  - Calc I
+  - Calc II (current)
+  - Discrete Math (current)
   - Intro to Probability and Stats
   - Data Structures and Algorithm Analysis
   - Computer Architecture
   - Network Science
   - Internet Programming
-  - Data Processing and Visualization
-  - Database Design
+  - Data Processing and Visualization (current)
+  - Database Design (current)
