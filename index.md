@@ -11,8 +11,8 @@ I am a Junior computer science student attending East Central University in Ada 
 ### Work By Language
 - Python
   - [A Casino's Take on Discrete Math](https://github.com/BrendenLatham/DiscreteMath/blob/main/projectpart5.ipynb)
-  - [Intro to Twitter Scrapping](https://github.com/BrendenLatham/Data_Viz/blob/main/TwitterScrape.ipynb)
-  - [Intro to Web Scrapping](https://github.com/BrendenLatham/Data_Viz/blob/main/WebScraping.ipynb)
+  - [Practice in Twitter Scrapping](https://github.com/BrendenLatham/Data_Viz/blob/main/TwitterScrape.ipynb)
+  - [Practice In Web Scrapping](https://github.com/BrendenLatham/Data_Viz/blob/main/WebScraping.ipynb)
   - [Wrangling Practice](https://github.com/BrendenLatham/Data_Viz/blob/main/WranglingBanks.ipynb)
 - R
   - [2020 Road to The Kentucky Derby Horse Stats](https://github.com/BrendenLatham/horse-stats/blob/main/myfirstmarkdown.Rmd)
